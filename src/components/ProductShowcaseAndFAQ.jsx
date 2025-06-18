@@ -4,19 +4,19 @@ const products = [
   {
     name: "ALYA SKIN CLEANSER.",
     price: "FROM $29.99",
-    img: "../public/filip-knezevic-k-ElrinXWAk-unsplash 2.png",
+    img: "../public/static/images/filip-knezevic-k-ElrinXWAk-unsplash 2.png",
     highlight: false,
   },
   {
     name: "RITUAL OF SAKURA.",
     price: "FROM $27.99",
-    img: "../public/cierra-henderson-LWIQp-0_b98-unsplash 1.png",
+    img: "../public/static/images/cierra-henderson-LWIQp-0_b98-unsplash 1.png",
     highlight: false, // changed from true to false
   },
   {
     name: "THE BODY LOTION.",
     price: "FROM $19.99",
-    img: "../public/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png",
+    img: "../public/static/images/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png",
     highlight: false,
   },
 ];
@@ -82,7 +82,7 @@ export default function ProductShowcaseAndFAQ() {
               </div>
               <button className="w-10 h-10 rounded-lg border border-gray-300 flex items-center justify-center transition hover:bg-gray-200 text-gray-900">
                  <img
-  src="../public/cart.svg"
+  src="../public/static/images/cart.svg"
   alt="Headset Icon"
   className="w-5 h-8 object-contain text-gray-700"
 />
@@ -98,7 +98,7 @@ export default function ProductShowcaseAndFAQ() {
         <div className="flex-1 flex flex-col items-center relative mb-8 md:mb-0">
           <div className="rounded-2xl overflow-hidden relative w-full max-w-md">
             <img
-              src="../public/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png"
+              src="../public/static/images/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png"
               alt="FAQ Product"
               className="w-120 h-120 object-cover"
             />
@@ -106,7 +106,7 @@ export default function ProductShowcaseAndFAQ() {
             <div className="absolute bottom-4 left-4 bg-[#f6f8e5] rounded-full shadow px-4 py-2 flex items-center gap-2">
               <div className="bg-[#35413c] rounded-full">
                 <img
-              src="../public/headphone-svgrepo-com 1 (1).svg"  // or use an imported path
+              src="../public/static/images/headphone-svgrepo-com 1 (1).svg"  // or use an imported path
               alt="Headset Icon"
               className="w-5 h-5 object-contain"
               />
