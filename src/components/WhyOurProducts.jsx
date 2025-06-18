@@ -65,14 +65,14 @@ export default function WhyOurProducts() {
         <div className="flex-1 flex flex-col items-end relative">
           <div className="rounded-2xl   overflow-hidden relative w-[320px] h-[400px] md:w-[500px] md:h-[600px]">
             <img
-              src="./src/assets/Jun 15, 2025, 11_52_20 PM 2.png"
+              src="../public/Jun 15, 2025, 11_52_20 PM 2.png"
               alt="Skincare Model"
               className="w-full h-full object-cover"
             />
             {/* Badge */}
             <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-[#f6f8e5] rounded-full shadow px-4 py-2 flex items-center gap-2">
               <img
-                src="./src/assets/award.svg"
+                src="../public/award.svg"
                 alt="Headset Icon"
                 className="w-8 h-8 object-contain text-gray-700"
                 />

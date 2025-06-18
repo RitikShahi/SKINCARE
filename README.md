@@ -3,8 +3,8 @@
 
 ## Customization
 
-- **Images**: Place your images in `/public/images/` or `/src/assets/` and update paths in components.
-- **Colors/Fonts**: Adjust Tailwind classes or extend `tailwind.config.js` as needed.
+- **Images**: Placed images in `/src/assets/` and updated paths in components.
+- **Colors/Fonts**:  Tailwind classes.
 - **Figma Matching**: All breakpoints and styles are based on the provided Figma design.
 
 ## Animations
@@ -23,6 +23,7 @@
 ## Deployment
 
 Deployed this project.
+https://skincare-19qaioxbw-ritik-shahis-projects.vercel.app/
 
 ## Project Structure
 /src
