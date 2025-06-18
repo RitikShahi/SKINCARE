@@ -23,7 +23,7 @@
 ## Deployment
 
 Deployed this project.
-https://skincare-19qaioxbw-ritik-shahis-projects.vercel.app/
+https://skincare-a2qt-5cuxzend5-ritik-shahis-projects.vercel.app/
 
 ## Project Structure
 /src
