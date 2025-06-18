@@ -23,6 +23,7 @@
 ## Deployment
 
 Deployed this project.
+https://majestic-chimera-6c6632.netlify.app/
 https://skincare-a2qt-5cuxzend5-ritik-shahis-projects.vercel.app/
 
 ## Project Structure
