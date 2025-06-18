@@ -19,19 +19,19 @@ export default function HeroSection({ onShopNowClick }) {
         <div className="flex items-center space-x-3 md:space-x-4">
           <div className="flex items-center space-x-1">
            <img
-  src="../public/static/images/cart.svg"
+  src="../public/images/cart.svg"
   alt="Headset Icon"
   className="w-5 h-8 object-contain text-gray-700"
 />
             <span className="text-xs">(1)</span>
           </div>
           <img
-  src="../public/static/images/heart.png"
+  src="../public/images/heart.png"
   alt="Headset Icon"
   className="w-5 h-5 object-contain text-gray-700"
 />
           <img
-  src="../public/static/images/person.svg"
+  src="../public/images/person.svg"
   alt="Headset Icon"
   className="w-5 h-8 object-contain text-gray-700"
 />
@@ -63,7 +63,7 @@ export default function HeroSection({ onShopNowClick }) {
           <div className="relative w-[240px] h-[320px] md:w-[24rem] md:h-[31rem] md:mt-3 z-20">
 
             <img
-              src="../public/static/images/ChatGPT Image Jun 15, 2025, 10_24_47 PM 3.png"
+              src="../public/images/ChatGPT Image Jun 15, 2025, 10_24_47 PM 3.png"
               alt="Main Product"
               className="w-full h-full object-cover rounded-xl shadow-xl z-10"
             />
@@ -80,7 +80,7 @@ export default function HeroSection({ onShopNowClick }) {
               onBlur={() => setHighlighted(false)}
             >
               <img
-              src="..public/static/images/skin_care_beauty_cosmetic_packaging_design_agency_mumbai_delhi_bangalore_india 4.png"
+              src="..public/images/skin_care_beauty_cosmetic_packaging_design_agency_mumbai_delhi_bangalore_india 4.png"
               alt="Main Product"
               className="w-12 h-12 rounded-full object-cover  shadow-xl z-10"
             />
@@ -94,7 +94,7 @@ export default function HeroSection({ onShopNowClick }) {
         {/* Right Floating Product - lifted for alignment */}
         <div className="flex-1 flex justify-end md:items-start mt-6 md:-mt-135 z-20 ">
           <img
-            src="../public/static/images/skin_care_beauty_cosmetic_packaging_design_agency_mumbai_delhi_bangalore_india 4.png"
+            src="../public/images/skin_care_beauty_cosmetic_packaging_design_agency_mumbai_delhi_bangalore_india 4.png"
             alt="Tube Product"
             className="w-20 h-20 md:w-28 md:h-28 object-contain rounded-xl"
           />

@@ -4,19 +4,19 @@ const products = [
   {
     name: "ALYA SKIN CLEANSER.",
     price: "FROM $29.99",
-    img: "../public/static/images/filip-knezevic-k-ElrinXWAk-unsplash 2.png",
+    img: "../public/images/filip-knezevic-k-ElrinXWAk-unsplash 2.png",
     
   },
   {
     name: "RITUAL OF SAKURA.",
     price: "FROM $27.99",
-    img: "../public/static/images/cierra-henderson-LWIQp-0_b98-unsplash 1.png",
+    img: "../public/images/cierra-henderson-LWIQp-0_b98-unsplash 1.png",
    
   },
   {
     name: "THE BODY LOTION.",
     price: "FROM $19.99",
-    img: "../public/static/images/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png",
+    img: "../public/images/mathilde-langevin-p3O5f4u95Lo-unsplash 1.png",
     
   },
 ];
@@ -38,14 +38,14 @@ export default function BestSellingProductsPage() {
         <div className="flex items-center gap-6 justify-center mt-2 md:mt-0">
           <button className="w-10 h-10   flex items-center justify-center hover:bg-gray-200 transition">
             <img
-  src="../public/static/images/left arrow 1.svg"
+  src="../public/images/left arrow 1.svg"
   alt="Headset Icon"
   className="w-10 h-10 object-contain"
 />
           </button>
           <button className="w-10 h-10  flex items-center justify-center text-white hover:bg-gray-700 transition">
             <img
-  src="../public/static/images/right arrow 1.svg"
+  src="../public/images/right arrow 1.svg"
   alt="Headset Icon"
   className="w-10 h-10 object-contain"
 />
@@ -75,7 +75,7 @@ export default function BestSellingProductsPage() {
               </div>
                <button className="w-10 h-10 rounded-lg border border-gray-300 flex items-center justify-center transition hover:bg-gray-200 text-gray-900">
                  <img
-  src="../public/static/images/cart.svg"
+  src="../public/images/cart.svg"
   alt="Headset Icon"
   className="w-5 h-8 object-contain text-gray-700"
 />
