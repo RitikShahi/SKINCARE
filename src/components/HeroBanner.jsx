@@ -3,7 +3,7 @@ export default function HeroBanner({ onShopNowClick }) {
     <section className="bg-[#f8f8ed] min-h-screen flex items-center justify-center px-4 py-8">
       <div className="w-full h-full max-w-8xl max-h-3xl rounded-2xl overflow-hidden relative shadow-md group">
         <img
-          src="../public/images/ChatGPT Image Jun 16, 2025, 01_32_50 AM 1.png"
+          src="/images/ChatGPT Image Jun 16, 2025, 01_32_50 AM 1.png"
           alt="Feel Beautiful"
           className="w-full h-[600px] object-cover transform transition-transform duration-700 ease-in-out group-hover:scale-110"
         />
